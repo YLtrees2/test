@@ -1,0 +1,10 @@
+NAME: Yongqian Li,Zhicheng Ren
+EMAIL: yltrees2@126.com,renzhicheng1996@126.com
+ID: 004997466,304972327
+
+This project analyzes a file system summary (a .csv file) and reports discovered corruption in this file system.
+
+Files included:
+lab3b.cpp: the source code of this project in C++
+Makefile: compiles and runs the project
+README: information about the file included in the tarball
